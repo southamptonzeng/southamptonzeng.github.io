@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>vlogger</strong> and a  <strong>PhD</strong> at <a href='https://www.uestc.edu.cn'>UESTC</a> and <a href='https://www.gla.ac.uk/'>University of Glasgow</a>. Focused on <strong>Machine Learning</strong>, <strong>Edge Computing</strong>, and <strong>Network Engineering</strong>. 
+subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>vlogger</strong> and a  <strong>PhD</strong> at <a href='https://www.uestc.edu.cn'>University of Electronic Science and Technology of China</a> and <a href='https://www.gla.ac.uk/'>University of Glasgow</a>. Focused on <strong>Machine Learning</strong>, <strong>Edge Computing</strong>, and <strong>Network Engineering</strong>. 
 
 
 profile:
