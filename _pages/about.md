@@ -2,24 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: A PhD in <a href='www.uestc.edu.cn'>UESTC</a>. Interested in ML.
+subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>vlogger</strong> and a  <strong>PhD</strong> at <a href='https://www.uestc.edu.cn'>UESTC</a> and <a href='https://www.gla.ac.uk/'>University of Glasgow</a>. Focused on <strong>Machine Learning</strong>, <strong>Edge Computing</strong>, and <strong>Network Engineering</strong>. 
+
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: my_profio.JPG
+  image_circular: False # crops the image to make it circular
   more_info: >
-    <p>KB320</p>
-    <p>Qinshuihe Campus, Uestc</p>
+    <p>Qinshuihe Campus, UESTC,</p>
     <p>Chengdu, China</p>
 
-news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello everyone, I’m Zhihao. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a PhD student in Computer Science jointly trained by the University of Electronic Science and Technology of China and the University of Glasgow, under the supervision of [Professor Xiaoning Zhang](https://www.sice.uestc.edu.cn/info/1450/11646.htm)  and [IEEE Fellow Professor Muhammad Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/). I earned my graduate degree in Information and Communication Engineering from the University of Electronic Science and Technology of China in 2022 and my undergraduate degree in Network Engineering from the same university in 2019.
+
+My current research focuses on machine learning, distributed optimization, large models, and network engineering. Specific topics include:
+
+- Efficient Federated Learning in edge heterogeneous environments
+- Optimization of Large Model inference
+- Satellite communication networks
+
+Becoming an inventor has been my dream since childhood. I hope to use my knowledge, imagination, and courage to change the world. My childhood idol was Einstein, and now my idol is Elon Musk.
+
+I am very excited to be part of artificial intelligence research. My ultimate goal is to have humanoid robots serving households everywhere. Therefore, I plan to enter the humanoid robotics industry after completing my PhD, and I hope to have my own startup in the future.
