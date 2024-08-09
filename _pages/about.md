@@ -7,7 +7,7 @@ subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>vlogge
 
 profile:
   align: right
-  image: my_profio.JPG
+  image: my_profio_small.jpeg
   image_circular: False # crops the image to make it circular
   more_info: >
     <p>Qinshuihe Campus, UESTC,</p>
