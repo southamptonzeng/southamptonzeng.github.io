@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>vlogger</strong> and a  <strong>PhD</strong> at <a href='https://www.uestc.edu.cn'>University of Electronic Science and Technology of China</a> and <a href='https://www.gla.ac.uk/'>University of Glasgow</a>. Focused on <strong>Machine Learning</strong>, <strong>Edge Computing</strong>, and <strong>Network Engineering</strong>. 
+subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>blogger</strong> and a  <strong>PhD</strong> at <a href='https://www.uestc.edu.cn'>University of Electronic Science and Technology of China</a> and <a href='https://www.gla.ac.uk/'>University of Glasgow</a>. Focused on <strong>Machine Learning</strong>, <strong>Edge Computing</strong>, and <strong>Network Engineering</strong>. 
 
 
 profile:
@@ -31,4 +31,4 @@ My current research focuses on machine learning, distributed optimization, large
 
 Becoming an inventor has been my dream since childhood. I hope to use my knowledge, imagination, and courage to change the world. My childhood idol was Einstein, and now my idol is Elon Musk.
 
-I am very excited to be part of artificial intelligence research. My ultimate goal is to have humanoid robots serving households everywhere. Therefore, I plan to enter the humanoid robotics industry after completing my PhD, and I hope to have my own startup in the future.
+I am excited to be a part of artificial intelligence research. My ultimate goal is to advance towards AGI and have humanoid robots serve households around the world. Therefore, I plan to enter the humanoid robotics industry after completing my Ph.D. and hope to have my own startup in the future.
