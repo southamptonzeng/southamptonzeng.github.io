@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello everyone, I’m Zhihao. 
 
-I am a PhD student in Computer Science jointly trained by the University of Electronic Science and Technology of China and the University of Glasgow, under the supervision of [Professor Xiaoning Zhang](https://www.sice.uestc.edu.cn/info/1450/11646.htm)  and [IEEE Fellow Professor Muhammad Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/). I earned my graduate degree in Information and Communication Engineering from the University of Electronic Science and Technology of China in 2022 and my undergraduate degree in Network Engineering from the same university in 2019.
+I am a PhD student in Computer Science jointly trained by the University of Electronic Science and Technology of China and the University of Glasgow, under the supervision of [Professor Xiaoning Zhang](https://www.sice.uestc.edu.cn/info/1450/11646.htm)  and [IEEE Fellow Professor Muhammad Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/). I earned my undergraduate degree in Network Engineering and my graduate degree in Information and Communication Engineering from University of Electronic Science and Technology of China in 2019 and in 2022, respectively.
 
 My current research focuses on machine learning, distributed optimization, large models, and network engineering. Specific topics include:
 
