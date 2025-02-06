@@ -6,9 +6,10 @@ subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>blogge
 
 
 profile:
-  align: right
-  image: my_profio_small.jpeg
-  image_circular: False # crops the image to make it circular
+  align: left
+  image: my_profio_small.gif
+  image_circular: true # crops the image to make it circular
+  image_html: '<img src="/assets/img/my_profio_small.gif" style="transform: rotate(90deg);">'
   more_info: >
     <p>Qinshuihe Campus, UESTC,</p>
     <p>Chengdu, China</p>
