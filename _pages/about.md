@@ -8,7 +8,7 @@ subtitle: A <strong>son</strong>, a <strong>boyfriend</strong>, a <strong>blogge
 profile:
   align: right
   image: my_profio_small.gif
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Qinshuihe Campus, UESTC,</p>
     <p>Chengdu, China</p>
