@@ -9,7 +9,7 @@ profile:
   align: left
   image: my_profio_small.gif
   image_circular: true # crops the image to make it circular
-  image_html: '<img src="/assets/img/my_profio_small.gif" style="transform: rotate(90deg);">'
+  image_html: '<img src="/assets/img/my_profio_small.gif" style="transform: rotate(45deg);">'
   more_info: >
     <p>Qinshuihe Campus, UESTC,</p>
     <p>Chengdu, China</p>
