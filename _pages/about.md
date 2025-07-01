@@ -10,8 +10,8 @@ profile:
   image: my_profio_small.gif
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Qinshuihe Campus, UESTC,</p>
-    <p>Chengdu, China</p>
+    <p>Main Campus, University of Glasgow,</p>
+    <p>the UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 news: false # includes a list of news items
