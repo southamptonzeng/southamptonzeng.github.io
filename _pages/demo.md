@@ -7,6 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-# Interactive Demo
+# Ask Me anything—from the details of my work and my life, to the mysteries of the universe itself.
 
 {% include gradio.html %}
